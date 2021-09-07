@@ -1,4 +1,6 @@
 from math import pi
+
+#Clase circulo que modela el comportamiento de un circulo y sus funciones
 class Circle:
 
     def __init__(self, radio):
@@ -13,10 +15,4 @@ class Circle:
 
 
 
-circle1 = Circle(2)
-circle2 = Circle(5)
-circle3 = Circle(7)
-
-circle1.printCircunference()
-circle2.printCircunference()
-circle3.printCircunference()
+()
